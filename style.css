@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+}
+
+header img{
+    width:10vw
+}
+header{
+    background-color: #fff!important;
+    padding: 6px 20px;
+}
+section img{
+    width: 8vw;
+  
+    margin-right: 9px;
+}
+section h4{
+    font-weight: 500;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 24px;
+    margin: 17px 6px;
+}
+.submit-btn{
+    padding: 10px;
+    background: #4688f1;
+    color: white;
+}
+section{
+    padding: 36px;
+    border: 1px solid #9f9d9d;
+    width: 732px;
+    border-radius: 10px;
+    margin-left: 300px;
+    height: auto;
+    margin-bottom: 70px;
+}
+.section1{
+    padding: 33px;
+    border: 1px solid #9f9d9d;
+    width: 382px;
+    border-radius: 10px;
+    margin-left: 439px;
+   
+    height: auto;
+    margin-bottom: 100px;
+}
+input{
+    padding: 7px;
+    border-radius: 6px;
+    border: 1px solid #e1e1e1;
+}
+.input-email{
+    width: 30vw;
+}
+form p{
+    color: #787878;
+}
+.current{
+    color: #5893f5;
+    font-weight: 400!important;
+}
+form a{
+    text-decoration: none;
+    color:#5893f5;
+    font-size: 18px;
+    margin-right: 100px;
+}
+.logo{
+    
+    float: right;
+    position: absolute;
+    top: 200px;
+    right: 275px;
+    width: 250px;
+
+}
+.section1 h4,.section1 p {
+    text-align: center;
+    margin: 10px 6px;
+}
+.logina{
+    margin-right: 163px;
+}
+.input-user,.input-pwd{
+    width:330px;
+    padding: 14px;
+}
+.current1{
+    color: #5893f5;
+    text-align: left !important;
+}
+.section1 img {
+    width: 8vw;
+    margin-right: 9px;
+}
